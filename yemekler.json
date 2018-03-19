@@ -1,0 +1,61 @@
+﻿{"yemekler":[
+    { 
+	"yemekid":1, 
+	"yemekadi":"Yemek Adı 1" , 
+	"yemekaciklama":"Tarifin Detayları 1",
+	"yemek_tur":"Tür 1",
+	"yemek_pisirme_suresi":"Doe",
+	"yemek_hazirlama_suresi":"Doe",
+	"yemek_kisi_sayisi":"Doe",
+	"yemek_resim":"Doe",
+	"yemek_malzemeler":"Doe",
+	},
+
+	  { 
+	"yemekid":2, 
+	"yemekadi":"Doe" , 
+	"yemekaciklama":"Doe",
+	"yemek_tur":"Doe",
+	"yemek_pisirme_suresi":"Doe",
+	"yemek_hazirlama_suresi":"Doe",
+	"yemek_kisi_sayisi":"Doe",
+	"yemek_resim":"Doe",
+	"yemek_malzemeler":"Doe",
+	},
+
+	  { 
+	"yemekid":3, 
+	"yemekadi":"Doe" , 
+	"yemekaciklama":"Doe",
+	"yemek_tur":"Doe",
+	"yemek_pisirme_suresi":"Doe",
+	"yemek_hazirlama_suresi":"Doe",
+	"yemek_kisi_sayisi":"Doe",
+	"yemek_resim":"Doe",
+	"yemek_malzemeler":"Doe",
+	},
+  	{ 
+	"yemekid":4, 
+	"yemekadi":"Doe" , 
+	"yemekaciklama":"Doe",
+	"yemek_tur":"Doe",
+	"yemek_pisirme_suresi":"Doe",
+	"yemek_hazirlama_suresi":"Doe",
+	"yemek_kisi_sayisi":"Doe",
+	"yemek_resim":"Doe",
+	"yemek_malzemeler":"Doe",
+	},
+  	{ 
+	"yemekid":5, 
+	"yemekadi":"Doe" , 
+	"yemekaciklama":"Doe",
+	"yemek_tur":"Doe",
+	"yemek_pisirme_suresi":"Doe",
+	"yemek_hazirlama_suresi":"Doe",
+	"yemek_kisi_sayisi":"Doe",
+	"yemek_resim":"Doe",
+	"yemek_malzemeler":"Doe",
+	}
+  
+]}
+
